@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/ChristianClee/Pizza_app.git/static/css/main.a91ed2c0.css",
-    "main.js": "/ChristianClee/Pizza_app.git/static/js/main.2b3176eb.js",
-    "static/media/pizza_logo.svg": "/ChristianClee/Pizza_app.git/static/media/pizza_logo.844021d6a97831abf9eb19b149dfc14a.svg",
-    "static/media/logo_cart.svg": "/ChristianClee/Pizza_app.git/static/media/logo_cart.15fd0dd68197caa5f7d6451487033f70.svg",
-    "static/media/shopping-cart.svg": "/ChristianClee/Pizza_app.git/static/media/shopping-cart.6ce036c7ac35f3eca2ddec058cbcf8e4.svg",
-    "static/media/chest_button.svg": "/ChristianClee/Pizza_app.git/static/media/chest_button.26b61f16ecbf4eac6357eba22195a7fa.svg",
-    "static/media/mines_button.svg": "/ChristianClee/Pizza_app.git/static/media/mines_button.83486bf0c188eec55b3e9d6490a2ed11.svg",
-    "static/media/black-triangle.svg": "/ChristianClee/Pizza_app.git/static/media/black-triangle.ca2078c553915f7887204fc49cce1dc1.svg",
-    "static/media/plus_button.svg": "/ChristianClee/Pizza_app.git/static/media/plus_button.d3eb2dac051e485bd720710c52904d7e.svg",
-    "static/media/trash.svg": "/ChristianClee/Pizza_app.git/static/media/trash.1b80a116497dc63de020d4090b88ddcf.svg",
-    "index.html": "/ChristianClee/Pizza_app.git/index.html",
-    "static/media/ruble.svg": "/ChristianClee/Pizza_app.git/static/media/ruble.2a61cb0d6cc3d01a78550d317ef3cbae.svg",
-    "static/media/plus.svg": "/ChristianClee/Pizza_app.git/static/media/plus.d6cb23a55cb83d34a7d6baca666f147a.svg",
-    "static/media/ruble-black.svg": "/ChristianClee/Pizza_app.git/static/media/ruble-black.f4d7827e8b85231a3c7fc29c8b4b3089.svg",
-    "static/media/path_.svg": "/ChristianClee/Pizza_app.git/static/media/path_.7829119cd62b4e2b3fddcff288da2b8f.svg",
-    "main.a91ed2c0.css.map": "/ChristianClee/Pizza_app.git/static/css/main.a91ed2c0.css.map",
-    "main.2b3176eb.js.map": "/ChristianClee/Pizza_app.git/static/js/main.2b3176eb.js.map"
+    "main.css": "/Pizza_app/static/css/main.a91ed2c0.css",
+    "main.js": "/Pizza_app/static/js/main.6ed90db9.js",
+    "static/media/pizza_logo.svg": "/Pizza_app/static/media/pizza_logo.844021d6a97831abf9eb19b149dfc14a.svg",
+    "static/media/logo_cart.svg": "/Pizza_app/static/media/logo_cart.15fd0dd68197caa5f7d6451487033f70.svg",
+    "static/media/shopping-cart.svg": "/Pizza_app/static/media/shopping-cart.6ce036c7ac35f3eca2ddec058cbcf8e4.svg",
+    "static/media/chest_button.svg": "/Pizza_app/static/media/chest_button.26b61f16ecbf4eac6357eba22195a7fa.svg",
+    "static/media/mines_button.svg": "/Pizza_app/static/media/mines_button.83486bf0c188eec55b3e9d6490a2ed11.svg",
+    "static/media/black-triangle.svg": "/Pizza_app/static/media/black-triangle.ca2078c553915f7887204fc49cce1dc1.svg",
+    "static/media/plus_button.svg": "/Pizza_app/static/media/plus_button.d3eb2dac051e485bd720710c52904d7e.svg",
+    "static/media/trash.svg": "/Pizza_app/static/media/trash.1b80a116497dc63de020d4090b88ddcf.svg",
+    "static/media/ruble.svg": "/Pizza_app/static/media/ruble.2a61cb0d6cc3d01a78550d317ef3cbae.svg",
+    "index.html": "/Pizza_app/index.html",
+    "static/media/plus.svg": "/Pizza_app/static/media/plus.d6cb23a55cb83d34a7d6baca666f147a.svg",
+    "static/media/ruble-black.svg": "/Pizza_app/static/media/ruble-black.f4d7827e8b85231a3c7fc29c8b4b3089.svg",
+    "static/media/path_.svg": "/Pizza_app/static/media/path_.7829119cd62b4e2b3fddcff288da2b8f.svg",
+    "main.a91ed2c0.css.map": "/Pizza_app/static/css/main.a91ed2c0.css.map",
+    "main.6ed90db9.js.map": "/Pizza_app/static/js/main.6ed90db9.js.map"
   },
   "entrypoints": [
     "static/css/main.a91ed2c0.css",
-    "static/js/main.2b3176eb.js"
+    "static/js/main.6ed90db9.js"
   ]
 }
