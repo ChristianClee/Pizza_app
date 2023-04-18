@@ -1,0 +1,152 @@
+.cart-page {
+  max-width: 820px;
+  margin: 0 auto;
+		&__top {
+      margin: 90px 0 70px 0;
+		}
+
+		&__list {
+      margin-bottom: 40px;
+		}
+
+		&__pizza-cart {
+      margin-bottom: 60px;
+		}
+
+		&__total {
+      margin-top: 40px;
+		}
+
+		&__bottom {
+		}
+}
+.top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+		&__basket {
+      display: flex;
+      align-items: center;
+		}
+
+		&__basket-img {
+      width: 30px;
+      height: 30px;
+      margin-right: 10px;
+		}
+
+		&__trash {
+      display: flex;
+      align-items: center;
+		}
+
+		&__trash-img {
+      width: 30px;
+      height: 30px;
+      margin-right: 10px;
+		}
+}
+.pizza-cart {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+		&__img {
+      width: 120px;
+      height: 120px;
+		}
+
+		&__text {
+      p{
+        font-weight: 400;
+        font-size: 18px;
+      }
+		}
+
+		&__title {
+      font-weight: 700;
+font-size: 22px;
+		}
+
+		&__regulator {
+      display: flex;
+      align-items: center;
+      h3{
+        margin: 0 12px;
+        font-size: 20px;
+        font-weight: 600;
+        color: red
+      }
+		}
+
+		&__minus {
+      width: 32px;
+      height: 32px;
+		}
+
+		&__price {
+      display: flex;
+      align-items: center;
+      h3{
+        font-weight: 700;
+        font-size: 22px;
+      }
+		}
+
+		&__price-img {
+      height: 17px;
+      width: 17px;
+    
+		}
+
+		&__clean-img {
+      width: 32px;
+      height: 32px;
+		}
+}
+.total-cart {
+  display: flex;
+  justify-content: space-between;
+		&__count {
+      p{
+        font-weight: 400;
+        font-size: 22px;
+      }
+      span{
+        font-weight: 600;
+      }
+		}
+
+		&__price {
+      p{
+        font-weight: 400;
+        font-size: 22px;
+      }
+      span{
+        font-weight: 600;
+      }
+		}
+}
+.bottom {
+  margin: 0 50px 0 50px;
+  display: flex;
+  justify-content: space-between;
+
+
+  &__button {
+    display: flex;
+    justify-content: center;
+    flex: 0 0 215px;
+    border: 1px solid black;
+    border-radius: 30px;
+    padding: 18px 0 18px 0;
+    font-weight: 700;
+    font-size: 16px;
+
+  }
+
+  &__img {
+    margin-right: 10px;
+  }
+}

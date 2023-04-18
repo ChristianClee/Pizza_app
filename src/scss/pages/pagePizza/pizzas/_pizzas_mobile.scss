@@ -1,0 +1,61 @@
+@media(max-width: $mobile){
+  .pizzas{
+    &__title {
+      font-size: 20px;
+      margin-bottom: 25px;
+    }
+    &__list{
+      grid-row-gap: 30px;
+    }
+    &__burger-options{
+      display: block;
+    }
+
+  }
+  .pizza{
+    width: 150px;
+    &__img {
+      width: 120px;
+      margin-bottom: 0px;
+    }
+    &__title {
+      font-size: 15px;
+      margin-bottom: 5px;
+		}
+    &__price{
+      font-size: 18px;
+      margin-bottom: 5px;
+    }
+    &__burger-options{
+      display: block;
+    }
+    &__options {
+      display: none;
+		}
+    &__body-price {
+      margin-top: 10px;
+		}
+  }
+ .options {
+
+  &__type {
+    display: block;
+  }
+
+  &__size {
+    display: block;
+  }
+
+}
+.button-add {
+   height: 30px;
+}
+}
+
+@media(max-width: $mobile-mini){
+.pizzas{
+    &__list{
+      grid-template-columns: repeat(1, 1fr);
+    }
+  }
+}

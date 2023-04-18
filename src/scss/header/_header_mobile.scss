@@ -1,0 +1,52 @@
+@media(max-width: $mobile){
+  .header {
+		&__body {
+      height: 80px;
+		}
+    &__logo {
+      margin-left: 0;
+		}
+    &__cart{
+      top: 30px;
+      right: 5%;
+    }
+  }
+  .logo{
+    &__title {
+      font-weight: 700;
+      font-size: 22px;
+		}
+    &__subtitle {
+      font-weight: 400;
+      font-size: 14px;
+		}
+  }
+  .cart {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px 13px;
+
+
+		&__price {
+      margin: 0 0 2px 0;
+      & p{
+        margin: 0px;
+      }
+		}
+
+		&__img {
+		}
+
+		&__scope {
+      margin: 0;
+
+      & p{
+        margin: 0px;
+      }
+		}
+  &::before{
+    display: none;
+  }
+}
+}

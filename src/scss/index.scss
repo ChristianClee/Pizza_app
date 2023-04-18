@@ -1,0 +1,49 @@
+@import "./all";
+
+
+body{
+  font-family: 'Montserrat', sans-serif;
+  background-color: $mainBackground;
+}
+#root{
+  height: inherit;
+  width: inherit;
+}
+
+.wrapper{
+  display: flex;
+  flex-direction: column;
+  width: calc(100vw - 40px);
+  margin: 0 auto;
+  min-height: 100%;
+  
+  padding-top: 43px;
+}
+.header{
+}
+
+.main{
+  flex: 1 0 100%;
+}
+.footer{
+}
+
+.container{
+  border: 2px dashed black;
+  // padding: 0 15px;
+  max-width: 1205px;
+  margin: 0 auto;
+}
+.wall-paper{
+  background-color: $mainElement;
+  max-width: 1340px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+@media(max-width: $mobile){
+  .wrapper{
+  width: calc(100vw - 26px);
+  padding-top: 13px;
+}
+}

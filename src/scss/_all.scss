@@ -1,0 +1,21 @@
+@import "./components/normolize";
+@import "./components/viriables";
+@import "./components/specialClasses";
+// import transition group styles
+@import "./components/tansitionGroup";
+// import media header
+@import "./header/header_rest";
+@import "./header/header_ipad";
+@import "./header/header_mobile";
+// import media pizza-page - sort
+@import "./pages/pagePizza/sort/sort_rest";
+@import "./pages/pagePizza/sort/sort_ipad";
+@import "./pages/pagePizza/sort/sort_mobile";
+// import media pizza-page - pizzas
+@import "./pages/pagePizza/pizzas/pizzas_rest";
+@import "./pages/pagePizza/pizzas/pizzas_ipad";
+@import "./pages/pagePizza/pizzas/pizzas_mobile";
+// import media cart-page 
+@import "./pages/pageCart/cart-page_rest";
+@import "./pages/pageCart/cart-page_ipad";
+@import "./pages/pageCart/cart-page_mobile";

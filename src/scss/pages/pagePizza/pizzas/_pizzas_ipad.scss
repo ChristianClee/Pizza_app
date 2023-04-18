@@ -1,0 +1,80 @@
+@media (max-width: $ipad) {
+  .pizzas {
+    &__title {
+    }
+
+    &__list {
+      grid-template-columns: repeat(3, 1fr);
+    }
+
+    &__pizza {
+    }
+  }
+}
+
+@media (max-width: $ipad-mini) {
+  .pizzas {
+    &__title {
+    }
+
+    &__list {
+    }
+
+    &__pizza {
+    }
+  }
+  .pizza {
+    width: 200px;
+    &__img {
+      width: 190px;
+    }
+    &__title {
+      font-weight: 700;
+      font-size: 18px;
+    }
+    &__options {
+      margin-bottom: 10px;
+    }
+
+    &__body-price {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    &__price {
+      margin-bottom: 10px;
+    }
+  }
+  .options {
+    font-weight: 600;
+    &__type {
+      & > *:not(:last-child) {
+      }
+    }
+    &__type {
+      li {
+        font-size: 12px;
+        flex: 1 0 auto;
+      }
+    }
+
+    &__size {
+      li {
+        font-size: 13px;
+      }
+    }
+  }
+}
+
+@media (max-width: $ipad-ultra-mini) {
+  .pizzas {
+    &__list {
+      grid-template-columns: repeat(2, 1fr);
+    }
+    &__title {
+      font-weight: 700;
+      font-size: 25px;
+    }
+  }
+}

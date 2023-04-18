@@ -1,0 +1,164 @@
+.pizzas {
+		&__title {
+      font-weight: 700;
+      font-size: 32px;
+      margin-bottom: 35px;
+      // background-color: $mainBackground;
+		}
+
+		&__list {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      grid-template-rows: repeat(2, 1fr);
+      grid-column-gap: 0px;
+      grid-row-gap: 60px;
+		}
+
+		&__pizza {
+      margin: 0 auto;
+		}
+}
+.pizza {
+  
+  display: flex;
+  width: 265px;
+  flex-direction: column;
+  align-items: center;
+  
+
+		&__img {
+      margin: 0 0 11px 5px;
+      width: 240px;
+		}
+
+		&__title {
+      font-weight: 800;
+      font-size: 20px;
+      margin-bottom: 22px;
+      text-align: center;
+      min-height: 50px;
+		}
+    &__burger-options{
+      display: none;
+    }
+
+		&__options {
+      margin-bottom: 17px;
+		}
+
+		&__body-price {
+      width: 100%;
+      display: flex;
+      justify-content: space-between;
+		}
+
+		&__price {
+      flex-shrink: 0;
+      display: flex;
+      align-items: center;
+      font-weight: 700;
+      font-size: 22px;
+      p{
+        flex-shrink: 0;
+      }
+		}
+
+		&__img-ruble {
+      flex: 0 0 21px;
+      height: 21px;
+      margin-left: 5px;
+		}
+
+		&__button-add {
+		}
+}
+.burger-options{
+  background-color: #cdcccc;
+  border-radius: 10px;
+  width: 100%;
+  text-align: center;
+  font-size: 11px;
+  padding: 6px;
+  
+  & div{
+    background-color: $mainElement;
+    border-radius: 8px;
+    padding: 2px;
+  }
+}
+.options {
+  width: 100%;
+  padding: 5px;
+  background-color: #cdcccc;
+  border-radius: 10px;
+  font-weight: 700;
+  font-size: 14px;
+
+    
+		&__type {
+      display: flex;
+      margin-bottom: 5px;
+      &>*:not(:last-child){
+        margin-right: 7px;
+      }
+      li{
+        flex: 1 0 45%;
+        text-align: center;
+        padding: 10px;
+        cursor: pointer;
+      }
+      .active{
+        background-color: $textButton;
+        border-radius: 10px;
+      }
+		}
+
+
+		&__size {
+      display: flex;
+      &>*:not(:last-child){
+        margin-right: 7px;
+      }
+      li{
+        flex: 1 0 auto;
+        text-align: center;
+        padding: 10px;
+        cursor: pointer;
+        }
+      .active{
+        background-color: $mainElement;
+        border-radius: 10px;
+      }
+		}
+}
+.button-add {
+  display:flex;
+  align-items: center;
+  height: 40px;
+  border: 1.5px solid $bodyButton;
+  border-radius: 30px;
+  padding: 11px 14px;
+  
+		&__img {
+      flex: 0 0 14px;
+      height: 14px;
+		}
+    &__text{
+      margin: 0 5px;
+      font-size: 14px;
+    }
+
+		&__count {
+      background-color: $bodyButton;
+      width: 22px;
+      height: 22px;
+      text-align: center;
+      line-height: 22px;
+      border-radius: 50%;
+      & p{
+        font-weight: 700;
+        font-size: 13px;
+        color: white
+      }
+		}
+}

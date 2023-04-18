@@ -1,0 +1,13 @@
+@media(max-width: $ipad-ultra-mini){
+  .header {
+		&__body {
+		}
+    &__logo {
+      margin-left: 10px;
+		}
+    &__cart{
+      // top: 30px;
+      right: 5%;
+    }
+  }
+}

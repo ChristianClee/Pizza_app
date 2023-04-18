@@ -1,0 +1,10 @@
+// .transitionGroup__pizza{
+//   background-color: $bodyButton;
+// }
+.transitionGroup-exit {
+  opacity: 1;
+}
+.transitionGroup-exit-active {
+  opacity: 0;
+  transition: opacity 1000ms ease-in;
+}

@@ -1,0 +1,41 @@
+@media(max-width: $ipad ){
+  .sort {
+    display: block;
+  &__categories {
+  }
+  &__type {
+    margin-top: 20px;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 18px;
+  }
+}
+.categories{
+  &__item {
+    padding: 13px 25px;
+  }
+}
+}
+
+@media(max-width: $ipad-mini ){
+.sort {
+  &__burger{
+    }
+  
+  &__categories {
+  }
+}
+.burger-sort{
+}
+.categories {
+  justify-content: space-around;
+  li {
+    padding: 13px 13px;
+    font-size: 14px;
+  }
+}
+}
+
+@media(max-width: $ipad-ultra-mini ){
+  
+}
