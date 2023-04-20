@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Pizza_app/static/css/main.9ad0f1a0.css",
-    "main.js": "/Pizza_app/static/js/main.a8f3054f.js",
+    "main.css": "/Pizza_app/static/css/main.60184a7f.css",
+    "main.js": "/Pizza_app/static/js/main.3a866891.js",
     "static/media/pizza_logo.svg": "/Pizza_app/static/media/pizza_logo.844021d6a97831abf9eb19b149dfc14a.svg",
     "static/media/logo_cart.svg": "/Pizza_app/static/media/logo_cart.15fd0dd68197caa5f7d6451487033f70.svg",
     "static/media/shopping-cart.svg": "/Pizza_app/static/media/shopping-cart.6ce036c7ac35f3eca2ddec058cbcf8e4.svg",
-    "static/media/chest_button.svg": "/Pizza_app/static/media/chest_button.26b61f16ecbf4eac6357eba22195a7fa.svg",
-    "static/media/mines_button.svg": "/Pizza_app/static/media/mines_button.83486bf0c188eec55b3e9d6490a2ed11.svg",
     "static/media/black-triangle.svg": "/Pizza_app/static/media/black-triangle.ca2078c553915f7887204fc49cce1dc1.svg",
-    "static/media/plus_button.svg": "/Pizza_app/static/media/plus_button.d3eb2dac051e485bd720710c52904d7e.svg",
     "static/media/trash.svg": "/Pizza_app/static/media/trash.1b80a116497dc63de020d4090b88ddcf.svg",
     "static/media/ruble.svg": "/Pizza_app/static/media/ruble.2a61cb0d6cc3d01a78550d317ef3cbae.svg",
     "index.html": "/Pizza_app/index.html",
+    "static/media/chest_1.svg": "/Pizza_app/static/media/chest_1.3e0030f178360234d120eb256789bb79.svg",
+    "static/media/plus_1.svg": "/Pizza_app/static/media/plus_1.8e074496e7c206f2d616316b3b3487c4.svg",
     "static/media/plus.svg": "/Pizza_app/static/media/plus.d6cb23a55cb83d34a7d6baca666f147a.svg",
+    "static/media/mines_button.svg": "/Pizza_app/static/media/mines_button.0f2244406c7d77b5eb92fc2827c7742a.svg",
     "static/media/ruble-black.svg": "/Pizza_app/static/media/ruble-black.f4d7827e8b85231a3c7fc29c8b4b3089.svg",
     "static/media/path_.svg": "/Pizza_app/static/media/path_.7829119cd62b4e2b3fddcff288da2b8f.svg",
-    "main.9ad0f1a0.css.map": "/Pizza_app/static/css/main.9ad0f1a0.css.map",
-    "main.a8f3054f.js.map": "/Pizza_app/static/js/main.a8f3054f.js.map"
+    "main.60184a7f.css.map": "/Pizza_app/static/css/main.60184a7f.css.map",
+    "main.3a866891.js.map": "/Pizza_app/static/js/main.3a866891.js.map"
   },
   "entrypoints": [
-    "static/css/main.9ad0f1a0.css",
-    "static/js/main.a8f3054f.js"
+    "static/css/main.60184a7f.css",
+    "static/js/main.3a866891.js"
   ]
 }
