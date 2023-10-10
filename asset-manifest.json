@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/Pizza_app/static/css/main.481e491d.css",
-    "main.js": "/Pizza_app/static/js/main.57e24bba.js",
+    "main.css": "/Pizza_app/static/css/main.0fee092d.css",
+    "main.js": "/Pizza_app/static/js/main.96c6cbba.js",
     "static/media/bottle.svg": "/Pizza_app/static/media/bottle.02cf495bffe1a6a05587e81ff5fc8c95.svg",
     "static/media/pizza_shop.svg": "/Pizza_app/static/media/pizza_shop.336f7057f23c67ede3b72ec011842d1b.svg",
     "static/media/pizza_logo.svg": "/Pizza_app/static/media/pizza_logo.844021d6a97831abf9eb19b149dfc14a.svg",
     "static/media/error_loading.svg": "/Pizza_app/static/media/error_loading.c19b982b6992d634095548da842f6032.svg",
     "static/media/logo_cart.svg": "/Pizza_app/static/media/logo_cart.15fd0dd68197caa5f7d6451487033f70.svg",
+    "static/media/goBackArrow.svg": "/Pizza_app/static/media/goBackArrow.7124f72db68ca493250aefe6dae17d5b.svg",
     "static/media/shopping-cart.svg": "/Pizza_app/static/media/shopping-cart.6ce036c7ac35f3eca2ddec058cbcf8e4.svg",
     "static/media/black-triangle.svg": "/Pizza_app/static/media/black-triangle.ca2078c553915f7887204fc49cce1dc1.svg",
     "static/media/trash.svg": "/Pizza_app/static/media/trash.1b80a116497dc63de020d4090b88ddcf.svg",
@@ -18,11 +19,11 @@
     "static/media/mines_button.svg": "/Pizza_app/static/media/mines_button.0f2244406c7d77b5eb92fc2827c7742a.svg",
     "static/media/ruble-black.svg": "/Pizza_app/static/media/ruble-black.f4d7827e8b85231a3c7fc29c8b4b3089.svg",
     "static/media/path_.svg": "/Pizza_app/static/media/path_.7829119cd62b4e2b3fddcff288da2b8f.svg",
-    "main.481e491d.css.map": "/Pizza_app/static/css/main.481e491d.css.map",
-    "main.57e24bba.js.map": "/Pizza_app/static/js/main.57e24bba.js.map"
+    "main.0fee092d.css.map": "/Pizza_app/static/css/main.0fee092d.css.map",
+    "main.96c6cbba.js.map": "/Pizza_app/static/js/main.96c6cbba.js.map"
   },
   "entrypoints": [
-    "static/css/main.481e491d.css",
-    "static/js/main.57e24bba.js"
+    "static/css/main.0fee092d.css",
+    "static/js/main.96c6cbba.js"
   ]
 }
